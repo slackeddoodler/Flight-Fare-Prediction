@@ -130,7 +130,6 @@ flight-fare-prediction/
 ├── dataset.csv
 ├── app.py                      # Gradio inference API
 ├── train.py                    # Model training + tuning script
-├── model.bin                   # Final trained model (RandomForest)
 ├── notebook.ipynb              # Full ML workflow notebook
 ├── requirements.txt            # Dependencies for deployment
 └── README.md                   # Project Description
